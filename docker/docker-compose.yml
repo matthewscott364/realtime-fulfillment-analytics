@@ -3,5 +3,6 @@ services:
     build:
       context: ..
       dockerfile: docker/Dockerfile
+    container_name: event_producer
     volumes:
-      - ../data/events:/data/events
+      - ../data:/data
