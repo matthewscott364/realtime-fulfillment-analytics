@@ -1,0 +1,7 @@
+services:
+  producer:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    volumes:
+      - ./data/events:/data/events
