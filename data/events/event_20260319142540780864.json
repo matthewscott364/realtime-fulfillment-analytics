@@ -1,0 +1,1 @@
+{"event_id": "2363e630-ccb0-4d16-be0b-35ac71a70817", "event_time": "2026-03-19T14:25:40.780107+00:00", "event_type": "order_created", "facility_id": "EWR4", "station_id": "PICK-01", "associate_id": "A5453", "order_id": "O925182", "sku_id": "SKU8297", "quantity": 4, "status": "success", "processing_seconds": 78}

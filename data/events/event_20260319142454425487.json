@@ -1,0 +1,1 @@
+{"event_id": "7f8245cc-2956-472c-a9ff-d6fc201562e2", "event_time": "2026-03-19T14:24:54.425432+00:00", "event_type": "order_created", "facility_id": "TEB9", "station_id": "ICQA-01", "associate_id": "A9695", "order_id": "O595259", "sku_id": "SKU1367", "quantity": 5, "status": "error", "processing_seconds": 96}

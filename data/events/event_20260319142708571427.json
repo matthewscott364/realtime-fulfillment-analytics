@@ -1,0 +1,1 @@
+{"event_id": "c06b25e5-0fff-4c71-b126-fd00fe893da9", "event_time": "2026-03-19T14:27:08.571366+00:00", "event_type": "inventory_adjustment", "facility_id": "TTN2", "station_id": "PICK-14", "associate_id": "A2946", "order_id": "O421683", "sku_id": "SKU5428", "quantity": 2, "status": "success", "processing_seconds": 5}

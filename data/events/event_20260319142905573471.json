@@ -1,0 +1,1 @@
+{"event_id": "1e1a71c0-2469-4a7f-af87-5fb4221ff0a0", "event_time": "2026-03-19T14:29:05.573428+00:00", "event_type": "item_picked", "facility_id": "TTN2", "station_id": "ICQA-01", "associate_id": "A5815", "order_id": "O662984", "sku_id": "SKU5985", "quantity": 3, "status": "error", "processing_seconds": 19}

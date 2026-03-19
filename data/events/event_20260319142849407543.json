@@ -1,0 +1,1 @@
+{"event_id": "8a159746-a122-4937-a682-b3a85e688050", "event_time": "2026-03-19T14:28:49.407487+00:00", "event_type": "inventory_adjustment", "facility_id": "PHL7", "station_id": "PICK-14", "associate_id": "A8295", "order_id": "O521339", "sku_id": "SKU9242", "quantity": 4, "status": "success", "processing_seconds": 80}

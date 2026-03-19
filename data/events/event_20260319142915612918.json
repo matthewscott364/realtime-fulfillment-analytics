@@ -1,0 +1,1 @@
+{"event_id": "bd92077a-9807-4588-8a4d-a84b87562fc8", "event_time": "2026-03-19T14:29:15.612847+00:00", "event_type": "item_picked", "facility_id": "TTN2", "station_id": "PICK-01", "associate_id": "A7037", "order_id": "O190374", "sku_id": "SKU4522", "quantity": 2, "status": "success", "processing_seconds": 10}

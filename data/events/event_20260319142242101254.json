@@ -1,0 +1,1 @@
+{"event_id": "fccc459e-9e76-4073-b3ff-02c12f348d9b", "event_time": "2026-03-19T14:22:42.101200+00:00", "event_type": "order_created", "facility_id": "TTN2", "station_id": "PICK-01", "associate_id": "A5497", "order_id": "O462101", "sku_id": "SKU3738", "quantity": 4, "status": "success", "processing_seconds": 104}

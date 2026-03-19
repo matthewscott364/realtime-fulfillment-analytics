@@ -1,0 +1,1 @@
+{"event_id": "6d683592-71ec-4a40-b7d6-0d6937515ba9", "event_time": "2026-03-19T14:26:54.413212+00:00", "event_type": "shipment_loaded", "facility_id": "PHL7", "station_id": "ICQA-01", "associate_id": "A6789", "order_id": "O521298", "sku_id": "SKU7589", "quantity": 1, "status": "error", "processing_seconds": 52}

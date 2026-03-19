@@ -1,0 +1,1 @@
+{"event_id": "c1efbd99-cbea-4582-9382-38772ddc95c9", "event_time": "2026-03-19T14:27:18.629101+00:00", "event_type": "shipment_loaded", "facility_id": "TTN2", "station_id": "PICK-14", "associate_id": "A5844", "order_id": "O107159", "sku_id": "SKU1221", "quantity": 3, "status": "success", "processing_seconds": 40}

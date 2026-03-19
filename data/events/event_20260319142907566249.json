@@ -1,0 +1,1 @@
+{"event_id": "d8c64769-d8a8-45b1-921b-d8dcf155a3f5", "event_time": "2026-03-19T14:29:07.566183+00:00", "event_type": "delay_flag", "facility_id": "TTN2", "station_id": "DOCK-03", "associate_id": "A3531", "order_id": "O599518", "sku_id": "SKU7214", "quantity": 2, "status": "warning", "processing_seconds": 77}

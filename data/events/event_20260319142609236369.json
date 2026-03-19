@@ -1,0 +1,1 @@
+{"event_id": "6aeaec7e-6f8a-4ee7-9f25-51bff6950072", "event_time": "2026-03-19T14:26:09.236205+00:00", "event_type": "shipment_loaded", "facility_id": "TEB9", "station_id": "PICK-01", "associate_id": "A4441", "order_id": "O585559", "sku_id": "SKU4146", "quantity": 2, "status": "success", "processing_seconds": 52}

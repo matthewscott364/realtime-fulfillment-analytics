@@ -1,0 +1,1 @@
+{"event_id": "e1f5794c-2b1f-403d-92d7-a2437a39c938", "event_time": "2026-03-19T14:28:45.378572+00:00", "event_type": "inventory_adjustment", "facility_id": "TTN2", "station_id": "ICQA-01", "associate_id": "A8636", "order_id": "O315218", "sku_id": "SKU6080", "quantity": 5, "status": "warning", "processing_seconds": 111}

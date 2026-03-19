@@ -1,0 +1,1 @@
+{"event_id": "f4480aa3-b474-4640-b9b8-b2ff7143d8d0", "event_time": "2026-03-19T14:30:40.867340+00:00", "event_type": "inventory_adjustment", "facility_id": "EWR4", "station_id": "ICQA-01", "associate_id": "A8240", "order_id": "O794555", "sku_id": "SKU5929", "quantity": 2, "status": "success", "processing_seconds": 88}

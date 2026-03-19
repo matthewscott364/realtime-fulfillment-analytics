@@ -1,0 +1,1 @@
+{"event_id": "42089125-ef8f-4195-b499-0a854d79843c", "event_time": "2026-03-19T14:27:14.609612+00:00", "event_type": "inventory_adjustment", "facility_id": "TEB9", "station_id": "PACK-02", "associate_id": "A7464", "order_id": "O573243", "sku_id": "SKU1691", "quantity": 4, "status": "warning", "processing_seconds": 20}

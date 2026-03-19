@@ -1,0 +1,1 @@
+{"event_id": "6c3ab354-278e-4610-9244-4595eeca78ce", "event_time": "2026-03-19T14:29:49.905299+00:00", "event_type": "item_picked", "facility_id": "PHL7", "station_id": "DOCK-03", "associate_id": "A3273", "order_id": "O650615", "sku_id": "SKU4309", "quantity": 3, "status": "success", "processing_seconds": 116}

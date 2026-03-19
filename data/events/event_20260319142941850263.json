@@ -1,0 +1,1 @@
+{"event_id": "47abdcd7-8ae8-4579-b3f2-2f5f0cb0dc70", "event_time": "2026-03-19T14:29:41.850202+00:00", "event_type": "shipment_loaded", "facility_id": "PHL7", "station_id": "PICK-01", "associate_id": "A8260", "order_id": "O195969", "sku_id": "SKU3902", "quantity": 5, "status": "warning", "processing_seconds": 50}

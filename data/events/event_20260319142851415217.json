@@ -1,0 +1,1 @@
+{"event_id": "381f0d0d-16dd-4e87-b23e-6ab79298e235", "event_time": "2026-03-19T14:28:51.415138+00:00", "event_type": "inventory_adjustment", "facility_id": "EWR4", "station_id": "DOCK-03", "associate_id": "A2014", "order_id": "O156638", "sku_id": "SKU6756", "quantity": 2, "status": "success", "processing_seconds": 33}

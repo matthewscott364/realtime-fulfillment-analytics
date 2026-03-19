@@ -1,0 +1,1 @@
+{"event_id": "10510da5-94b0-4d4d-8daa-65538fdaa074", "event_time": "2026-03-19T14:28:15.096910+00:00", "event_type": "delay_flag", "facility_id": "TTN2", "station_id": "ICQA-01", "associate_id": "A9008", "order_id": "O308193", "sku_id": "SKU5089", "quantity": 1, "status": "error", "processing_seconds": 111}

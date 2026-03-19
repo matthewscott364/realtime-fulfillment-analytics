@@ -1,0 +1,1 @@
+{"event_id": "05f31c11-d2b3-48f5-8e34-02a76f68571c", "event_time": "2026-03-19T14:26:56.421495+00:00", "event_type": "inventory_adjustment", "facility_id": "TEB9", "station_id": "PICK-14", "associate_id": "A7233", "order_id": "O893406", "sku_id": "SKU2148", "quantity": 5, "status": "warning", "processing_seconds": 54}

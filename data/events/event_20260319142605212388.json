@@ -1,0 +1,1 @@
+{"event_id": "05cce83c-09ae-4f39-b0bc-fa823acb740b", "event_time": "2026-03-19T14:26:05.212320+00:00", "event_type": "inventory_adjustment", "facility_id": "TTN2", "station_id": "DOCK-03", "associate_id": "A3549", "order_id": "O415746", "sku_id": "SKU7002", "quantity": 4, "status": "success", "processing_seconds": 30}

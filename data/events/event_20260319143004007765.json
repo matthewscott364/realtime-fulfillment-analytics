@@ -1,0 +1,1 @@
+{"event_id": "34500481-8a49-42b0-acca-e218737efc8b", "event_time": "2026-03-19T14:30:04.007708+00:00", "event_type": "shipment_loaded", "facility_id": "EWR4", "station_id": "PACK-02", "associate_id": "A3886", "order_id": "O445687", "sku_id": "SKU3229", "quantity": 4, "status": "warning", "processing_seconds": 119}

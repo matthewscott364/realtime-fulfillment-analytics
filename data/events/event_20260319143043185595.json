@@ -1,0 +1,1 @@
+{"event_id": "31021da1-b82b-4de6-898c-5f2d388e5d6b", "event_time": "2026-03-19T14:30:43.185520+00:00", "event_type": "delay_flag", "facility_id": "PHL7", "station_id": "PICK-14", "associate_id": "A2011", "order_id": "O362562", "sku_id": "SKU3658", "quantity": 2, "status": "warning", "processing_seconds": 100}

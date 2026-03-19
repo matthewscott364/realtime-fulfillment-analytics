@@ -1,0 +1,1 @@
+{"event_id": "06d5430f-f2a1-4169-9ab4-d372601bc1c8", "event_time": "2026-03-19T14:24:46.390399+00:00", "event_type": "shipment_loaded", "facility_id": "EWR4", "station_id": "PACK-02", "associate_id": "A4342", "order_id": "O790102", "sku_id": "SKU8981", "quantity": 1, "status": "error", "processing_seconds": 79}

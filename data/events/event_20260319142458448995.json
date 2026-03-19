@@ -1,0 +1,1 @@
+{"event_id": "a695a9f5-5594-4177-b9db-8e87ad922106", "event_time": "2026-03-19T14:24:58.448941+00:00", "event_type": "shipment_loaded", "facility_id": "EWR4", "station_id": "DOCK-03", "associate_id": "A3050", "order_id": "O341586", "sku_id": "SKU1853", "quantity": 4, "status": "success", "processing_seconds": 117}

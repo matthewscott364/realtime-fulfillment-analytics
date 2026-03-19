@@ -1,0 +1,1 @@
+{"event_id": "3c886bd5-6915-4ca8-8a73-cc5453eae68c", "event_time": "2026-03-19T14:25:10.600069+00:00", "event_type": "item_picked", "facility_id": "TEB9", "station_id": "PACK-02", "associate_id": "A6478", "order_id": "O858496", "sku_id": "SKU1735", "quantity": 2, "status": "error", "processing_seconds": 85}

@@ -1,0 +1,1 @@
+{"event_id": "868ea335-59d2-4c5f-afce-2fe08bc45631", "event_time": "2026-03-19T14:27:48.889472+00:00", "event_type": "order_created", "facility_id": "TTN2", "station_id": "DOCK-03", "associate_id": "A3490", "order_id": "O969384", "sku_id": "SKU4933", "quantity": 3, "status": "success", "processing_seconds": 16}
