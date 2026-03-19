@@ -1,1 +1,0 @@
-{"event_id": "b4259a6a-affa-4d2d-8d34-6fab352bd242", "event_time": "2026-03-19T14:29:09.577582+00:00", "event_type": "inventory_adjustment", "facility_id": "TEB9", "station_id": "PICK-01", "associate_id": "A5890", "order_id": "O714605", "sku_id": "SKU4325", "quantity": 5, "status": "success", "processing_seconds": 112}

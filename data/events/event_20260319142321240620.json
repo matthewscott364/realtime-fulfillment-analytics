@@ -1,1 +1,0 @@
-{"event_id": "478d4b0b-bfc3-48a1-b5ff-265453561e18", "event_time": "2026-03-19T14:23:21.240541+00:00", "event_type": "shipment_loaded", "facility_id": "TEB9", "station_id": "PACK-02", "associate_id": "A7379", "order_id": "O214246", "sku_id": "SKU8036", "quantity": 3, "status": "error", "processing_seconds": 58}

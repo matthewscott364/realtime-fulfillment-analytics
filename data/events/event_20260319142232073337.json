@@ -1,1 +1,0 @@
-{"event_id": "953d492b-a58c-477c-bea4-562f91920464", "event_time": "2026-03-19T14:22:32.073266+00:00", "event_type": "inventory_adjustment", "facility_id": "TEB9", "station_id": "ICQA-01", "associate_id": "A3185", "order_id": "O967489", "sku_id": "SKU3773", "quantity": 4, "status": "warning", "processing_seconds": 85}

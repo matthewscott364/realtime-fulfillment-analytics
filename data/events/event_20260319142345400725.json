@@ -1,1 +1,0 @@
-{"event_id": "7be1a59c-7397-4e5f-939b-246ffebcfe6a", "event_time": "2026-03-19T14:23:45.400651+00:00", "event_type": "inventory_adjustment", "facility_id": "PHL7", "station_id": "DOCK-03", "associate_id": "A9199", "order_id": "O947524", "sku_id": "SKU9451", "quantity": 3, "status": "success", "processing_seconds": 20}

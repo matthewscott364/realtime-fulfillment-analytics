@@ -1,1 +1,0 @@
-{"event_id": "872157fc-f5e5-4803-82c7-c4464c2dabd3", "event_time": "2026-03-19T14:26:52.399054+00:00", "event_type": "delay_flag", "facility_id": "TTN2", "station_id": "PICK-01", "associate_id": "A2212", "order_id": "O633935", "sku_id": "SKU1842", "quantity": 1, "status": "error", "processing_seconds": 21}

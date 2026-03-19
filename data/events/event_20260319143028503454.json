@@ -1,1 +1,0 @@
-{"event_id": "4187f51c-6b07-41de-b6da-cf859162bb56", "event_time": "2026-03-19T14:30:28.503380+00:00", "event_type": "order_created", "facility_id": "EWR4", "station_id": "PACK-02", "associate_id": "A4826", "order_id": "O214461", "sku_id": "SKU2475", "quantity": 2, "status": "error", "processing_seconds": 111}

@@ -1,1 +1,0 @@
-{"event_id": "a87bc3ea-8aa0-4cb0-a203-ccc1a1463bf6", "event_time": "2026-03-19T14:25:34.732506+00:00", "event_type": "shipment_loaded", "facility_id": "EWR4", "station_id": "DOCK-03", "associate_id": "A3378", "order_id": "O799048", "sku_id": "SKU8377", "quantity": 3, "status": "warning", "processing_seconds": 44}

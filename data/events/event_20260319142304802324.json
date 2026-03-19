@@ -1,1 +1,0 @@
-{"event_id": "6ffb844f-fb90-4ab2-b684-0db1a19b41d6", "event_time": "2026-03-19T14:23:04.802252+00:00", "event_type": "delay_flag", "facility_id": "TTN2", "station_id": "PICK-14", "associate_id": "A4436", "order_id": "O841476", "sku_id": "SKU9531", "quantity": 1, "status": "warning", "processing_seconds": 75}

@@ -1,1 +1,0 @@
-{"event_id": "cc8d071f-d548-4386-a627-dbb8279a59a2", "event_time": "2026-03-19T14:30:30.521319+00:00", "event_type": "delay_flag", "facility_id": "PHL7", "station_id": "ICQA-01", "associate_id": "A9900", "order_id": "O320280", "sku_id": "SKU7533", "quantity": 4, "status": "error", "processing_seconds": 118}

@@ -1,1 +1,0 @@
-{"event_id": "39d9f91c-6bed-450a-a4b6-a1f5a29233fe", "event_time": "2026-03-19T14:27:36.828409+00:00", "event_type": "inventory_adjustment", "facility_id": "PHL7", "station_id": "PACK-02", "associate_id": "A3193", "order_id": "O206786", "sku_id": "SKU6000", "quantity": 3, "status": "warning", "processing_seconds": 79}

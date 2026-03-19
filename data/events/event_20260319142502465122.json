@@ -1,1 +1,0 @@
-{"event_id": "9f82cbbc-a385-417f-ae3b-d4c080a82929", "event_time": "2026-03-19T14:25:02.465052+00:00", "event_type": "item_picked", "facility_id": "PHL7", "station_id": "PICK-01", "associate_id": "A8224", "order_id": "O910646", "sku_id": "SKU5834", "quantity": 4, "status": "warning", "processing_seconds": 6}

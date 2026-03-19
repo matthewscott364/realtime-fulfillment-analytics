@@ -1,1 +1,0 @@
-{"event_id": "4b72573e-377e-4276-8e14-6af82bf20430", "event_time": "2026-03-19T14:26:32.003308+00:00", "event_type": "order_created", "facility_id": "EWR4", "station_id": "PACK-02", "associate_id": "A8187", "order_id": "O801064", "sku_id": "SKU2917", "quantity": 1, "status": "success", "processing_seconds": 33}

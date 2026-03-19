@@ -1,1 +1,0 @@
-{"event_id": "df2e6f04-aa2c-4403-9d52-a5944652c602", "event_time": "2026-03-19T14:29:11.586776+00:00", "event_type": "order_created", "facility_id": "TTN2", "station_id": "PACK-02", "associate_id": "A1239", "order_id": "O595708", "sku_id": "SKU9207", "quantity": 4, "status": "success", "processing_seconds": 40}

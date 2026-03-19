@@ -1,1 +1,0 @@
-{"event_id": "12359c79-5740-4491-8e3c-b4dd5d3edccc", "event_time": "2026-03-19T14:25:08.592513+00:00", "event_type": "shipment_loaded", "facility_id": "TEB9", "station_id": "DOCK-03", "associate_id": "A6137", "order_id": "O987784", "sku_id": "SKU9876", "quantity": 4, "status": "error", "processing_seconds": 50}

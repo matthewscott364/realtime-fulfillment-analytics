@@ -1,1 +1,0 @@
-{"event_id": "ae83e6d7-dc9d-4cf8-86a6-e43345c52d73", "event_time": "2026-03-19T14:24:32.306611+00:00", "event_type": "shipment_loaded", "facility_id": "TTN2", "station_id": "DOCK-03", "associate_id": "A1728", "order_id": "O434739", "sku_id": "SKU3634", "quantity": 4, "status": "warning", "processing_seconds": 119}

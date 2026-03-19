@@ -1,1 +1,0 @@
-{"event_id": "f88bc611-f42e-4d97-9135-48817214d9cc", "event_time": "2026-03-19T14:22:48.364034+00:00", "event_type": "order_created", "facility_id": "TEB9", "station_id": "PACK-02", "associate_id": "A3950", "order_id": "O332207", "sku_id": "SKU5793", "quantity": 2, "status": "success", "processing_seconds": 119}

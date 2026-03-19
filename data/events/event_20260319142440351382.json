@@ -1,1 +1,0 @@
-{"event_id": "6501854b-563f-4a7e-bc6d-be873c9547b4", "event_time": "2026-03-19T14:24:40.351314+00:00", "event_type": "inventory_adjustment", "facility_id": "TEB9", "station_id": "DOCK-03", "associate_id": "A3715", "order_id": "O455029", "sku_id": "SKU1878", "quantity": 4, "status": "success", "processing_seconds": 118}

@@ -1,1 +1,0 @@
-{"event_id": "65db507f-9d15-4717-91b4-3bfcc0fce444", "event_time": "2026-03-19T14:23:33.381185+00:00", "event_type": "order_created", "facility_id": "PHL7", "station_id": "PACK-02", "associate_id": "A4398", "order_id": "O802929", "sku_id": "SKU9728", "quantity": 5, "status": "success", "processing_seconds": 115}

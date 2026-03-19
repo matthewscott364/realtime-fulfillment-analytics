@@ -1,1 +1,0 @@
-{"event_id": "bbaeaeb3-6b5d-4c8a-be1b-286db456df4b", "event_time": "2026-03-19T14:29:35.834904+00:00", "event_type": "shipment_loaded", "facility_id": "TTN2", "station_id": "ICQA-01", "associate_id": "A9103", "order_id": "O345892", "sku_id": "SKU7263", "quantity": 2, "status": "warning", "processing_seconds": 86}

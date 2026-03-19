@@ -1,1 +1,0 @@
-{"event_id": "07e11cae-308b-42c4-bfb2-2b69be88d8d8", "event_time": "2026-03-19T14:30:38.773714+00:00", "event_type": "order_created", "facility_id": "PHL7", "station_id": "PACK-02", "associate_id": "A9737", "order_id": "O914432", "sku_id": "SKU3358", "quantity": 2, "status": "success", "processing_seconds": 5}

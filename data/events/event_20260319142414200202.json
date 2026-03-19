@@ -1,1 +1,0 @@
-{"event_id": "43cf34bc-179b-4cce-9289-ac2d74eb5c3f", "event_time": "2026-03-19T14:24:14.200146+00:00", "event_type": "inventory_adjustment", "facility_id": "EWR4", "station_id": "PICK-14", "associate_id": "A9911", "order_id": "O439528", "sku_id": "SKU4341", "quantity": 2, "status": "success", "processing_seconds": 119}

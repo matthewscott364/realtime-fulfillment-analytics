@@ -1,1 +1,0 @@
-{"event_id": "0ee1ad9c-9923-423f-8eec-c7c8a27984e9", "event_time": "2026-03-19T14:30:34.585973+00:00", "event_type": "item_picked", "facility_id": "TEB9", "station_id": "DOCK-03", "associate_id": "A8078", "order_id": "O656379", "sku_id": "SKU7810", "quantity": 2, "status": "error", "processing_seconds": 113}

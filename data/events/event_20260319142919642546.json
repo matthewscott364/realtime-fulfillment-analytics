@@ -1,1 +1,0 @@
-{"event_id": "ed5ab0d2-dca9-4d6c-b1b5-6b4be8668a67", "event_time": "2026-03-19T14:29:19.641928+00:00", "event_type": "item_picked", "facility_id": "EWR4", "station_id": "PICK-01", "associate_id": "A3394", "order_id": "O159023", "sku_id": "SKU3279", "quantity": 3, "status": "success", "processing_seconds": 80}

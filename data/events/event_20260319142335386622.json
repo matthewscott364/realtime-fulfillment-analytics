@@ -1,1 +1,0 @@
-{"event_id": "b8002b83-5d3b-41e6-a3d7-2fd2d8bb9340", "event_time": "2026-03-19T14:23:35.386520+00:00", "event_type": "delay_flag", "facility_id": "TEB9", "station_id": "PICK-01", "associate_id": "A6143", "order_id": "O620577", "sku_id": "SKU7379", "quantity": 3, "status": "success", "processing_seconds": 87}

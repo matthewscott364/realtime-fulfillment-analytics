@@ -1,1 +1,0 @@
-{"event_id": "68eabe8b-81c6-4f7c-961f-fe9dffc21368", "event_time": "2026-03-19T14:25:04.474270+00:00", "event_type": "shipment_loaded", "facility_id": "EWR4", "station_id": "ICQA-01", "associate_id": "A9093", "order_id": "O557457", "sku_id": "SKU8391", "quantity": 2, "status": "error", "processing_seconds": 115}
